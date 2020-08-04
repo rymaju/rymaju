@@ -1,6 +1,8 @@
-# Ryan Jung
+# Ryan Jung 
 
-Hey! I'm Ryan, a Computer Science major + Interaction Design minor at Northeastern University. I'm a web developer at heart, but I have a soft spot for all things functional and fun. I usually spend a lot of my time playing with new technologies, reading blog posts, or coding something fun and useful. I feel most meaningful and excited when I'm creating a product that could help people I care about. When I'm not coding I'm probably losing in [StarCraft II](https://starcraft2.com/en-us/profile/1/1/9860436/summary) or listening to [funky soft bops](https://open.spotify.com/playlist/0CFlqBuh07772e416382LP?si=wWgpbDQ1T_Ki7mSWLEsh6g) on Spotify.
+Hey, I'm Ryan! 👋 I'm a Computer Science major + Interaction Design minor at Northeastern University. I'm a web developer at heart, but I have a soft spot for all things functional and fun. I usually spend a lot of my time playing with new technologies, reading blog posts, or coding something fun and useful. I feel most meaningful and excited when I'm creating a product that could help people I care about. ❤
+
+When I'm not coding, I'm probably losing in [StarCraft II](https://starcraft2.com/en-us/profile/1/1/9860436/summary) 👾 or listening to some ~~objectively bad music~~ [funky soft bops](https://open.spotify.com/playlist/0CFlqBuh07772e416382LP?si=wWgpbDQ1T_Ki7mSWLEsh6g). 🎧
 
 
 ## What I'm working on
@@ -11,9 +13,9 @@ I'm also working on developing [Code Sync, a DrRacket plugin to share code](http
 
 ## Get in touch
 
-- ❤ Personal Site: [ryanjung.dev](https://ryanjung.dev)
-- 📫 Email: ryan.matthew.jung@gmail.com
-- 🏫 Also: jung.ry@northeastern.edu
-- 😄 Pronouns: He/Him
+- 📔 Personal Site: [ryanjung.dev](https://ryanjung.dev)
+- 📫 Primary Email: ryan.matthew.jung@gmail.com
+- 🏫 School Email: jung.ry@northeastern.edu
+- 🤗 Pronouns: He/Him
 
 
