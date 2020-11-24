@@ -6,9 +6,8 @@ When I'm not coding, I'm probably losing in [StarCraft II](https://starcraft2.co
 
 ## What I'm working on
 
-I do a lot of work for [Code4Community](https://c4cneu.com), a club at Norteastern that develops software solutions for non-profts here in Boston. I work as a frontend developer and amateur designer.
+I do a lot of work for [Code4Community](https://c4cneu.com), a club at Norteastern that develops software solutions for non-profts here in Boston. I'm currently the technical lead of our project for Lucy's Love Bus, a charity dedicated to helping children with life threatening illnesses and their families.
 
-I'm also working on developing [Code Sync, a DrRacket plugin to share code](https://github.com/rymaju/code-sync). I'm planning to get it up and running before September 9th for students in the fall.
 
 ## Get in touch
 
