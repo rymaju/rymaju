@@ -8,6 +8,7 @@ When I'm not coding, I'm probably losing in [StarCraft II](https://sc2replaystat
 
 I do a lot of work for [Code4Community](https://c4cneu.com), a club at Norteastern that develops software solutions for non-profts here in Boston. I'm currently the technical lead of our project for Lucy's Love Bus, a charity dedicated to helping children with life threatening illnesses and their families.
 
+I'm also working on a lot of PL stuff! One project I'm excited about is an implementation of LOLCODE in Racket which you can check out [here](https://github.com/rymaju/lolcode)!
 
 ## Get in touch
 
