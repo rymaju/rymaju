@@ -16,4 +16,4 @@ I'm also working on a lot of PL stuff! One project I'm excited about is an imple
 - 📫 Primary Email: ryan.matthew.jung@gmail.com
 - 🏫 School Email: jung.ry@northeastern.edu
 - 🤗 Pronouns: He/Him
-- 📝 Resume: [2021](https://ryanjung.dev/ryan_jung_resume.pdf)
+- 📝 Resume: [2021 (Old)](https://ryanjung.dev/ryan_jung_resume.pdf)
